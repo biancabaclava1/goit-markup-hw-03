@@ -1,0 +1,233 @@
+:root{
+    --text-font-family: 'Roboto', 'Raleway', sans-serif;
+    --brand-color-iris: #4D5AE5;
+    --brand-color-ocean: #404BBF;
+    --brand-color-navvy-blue: #2E2F42;
+    --brand-color-slate: #434455;
+    --brand-color-cornflower: #E7E9FC;
+    --brand-color-cloud: #F4F4FD;
+    --fs-small: 18px;
+    --fs-body: 16px;
+    --fs-title: 56px;
+    --fs-h2: 36px;
+    --fs-medoi: 20px;
+    --fs-extra-small: 12px;
+    --fw-blackt: 800;
+    --fw-boldt: 700;
+    --fw-normalt: 400;
+    --fw-mediumt: 500;
+}
+
+body{
+    font-family: "Roboto" , sans-serif ;
+    color: var(--brand-color-slate);
+    background-color: #FFFFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.link{
+    text-decoration: none;
+}
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--brand-color-iris)
+}
+.span-class{
+    color: #F4F4FD;
+}
+.link-for-sudio{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.link-for-sudio:hover{
+    color: #404bbf;
+
+}
+
+.link-for-sudio:focus{
+    color:#404bbf ;
+}
+
+.adress-class{
+    font-style: normal;
+
+}
+
+
+.mail-adress{
+    font-size: 16px;
+   line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455 ;
+
+}
+.mail-adress:hover{
+    color:  #404bbf;
+
+}
+.mail-adress:focus{
+    color: #404bbf;
+}
+
+.section-one{
+    background-color:  #2e2f42;
+
+}
+.title{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff ;
+
+}
+.order-button{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif ;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+.order-button:hover{
+    background-color: #404bbf;
+
+}
+.order-button:focus{
+    background-color: #404bbf;
+}
+.list{
+    list-style: none;
+}
+.title-section{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
+}
+.goal-paragraph{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #434455;
+    letter-spacing: 0.02em;
+
+}
+.doing{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+
+}
+.our-team{
+    background-color: #F4F4FD;
+
+}
+
+.team-title{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:  #2e2f42;
+
+}
+.mark{
+    background-color: #FFFFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
+}
+.jobs{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+.footer{
+    background-color: #2e2f42;
+
+}
+.webstudio-link{
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.last-paragraph{
+    line-height: 1.5;
+    color:#F4F4FD;
+    letter-spacing: 0.02em;
+
+}
+.list {
+    list-style: none;
+  }
+  .all-web-app{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color:#4d5ae5 ;
+    background-color: #F4F4FD;
+    cursor: pointer;
+
+  }
+  .all-web-app:hover{
+    color:#ffffffff;
+    background-color:#404BBF ;
+  }
+  .all-web-app:focus{
+    color:#FFFFFFFF ;
+    background-color: #404BBF;
+  }
+.all-port-images{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
+}
+.portofolio-paragraph{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+
+.span-header{
+    color: #2e2f42;
+
+}
+.backgroundc{
+    background-color: #FFFFFFFF;
+    
+}
